@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  /* background-color: black; */
+  background-image: url("space.avif");
+  color: whitesmoke;
+}
+
+.app{
+  padding: 0 9%;
+}
