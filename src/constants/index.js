@@ -95,7 +95,7 @@ export const navOptions = [
   "Tools",
   "Experience",
   "Projects",
-  "Resume",
+  "Connect",
 ];
 
 export const NAVBAR_TITLE = "RS";
