@@ -20,7 +20,7 @@ function Navbar() {
         {/* <p>Tools</p>
         <p>Experience</p>
         <p>Projects</p>
-        <p>Resume</p> */}
+        <p>Connect</p> */}
       </div>
     </div>
   );
